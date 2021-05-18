@@ -20,3 +20,25 @@
 <textarea rows = "10" cols = "100"  placeholder="New subscription with groups, auto select server and much more will appear here !" id="result" > </textarea>
 <br />
 <h3 id="result_message">Enjoy :-)</h3>
+  
+<script>
+function subgen_func() {
+  ori_sub = document.getElementById("ori_sub").value;
+  sub = "https://api.wcc.best/sub?target=clash&new_name=true&url=ORI_SUB_HERE&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Fit-global-architect%2Fclash-conf%2Fmain%2Fini%2Fsub-main-conf.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=true";
+  sub = sub.replace("ORI_SUB_HERE", ori_sub)
+  document.getElementById("result").value = sub;
+  var copyText = document.getElementById("result");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("Sub copied to your clipboard")
+}
+</script>
+</body>
+</html>
