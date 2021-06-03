@@ -3,14 +3,17 @@ IP-CIDR,186.192.90.0/24
 DOMAIN-SUFFIX,globo.com
 ######################################################
 #Evernote
-DOMAIN-SUFFIX,evernote.com
+#DOMAIN-SUFFIX,evernote.com
 ######################################################
 #Amazon
 #DOMAIN-SUFFIX,amazon.com
 #DOMAIN-SUFFIX,primevideo.com
 ######################################################
 #Netflix
-DOMAIN-KEYWORD,netflix
+#DOMAIN-KEYWORD,netflix
 ######################################################
 #Nuuvem
 DOMAIN-KEYWORD,nuuvem
+#####################################################
+#any .br
+DOMAIN-SUFFIX,.br
