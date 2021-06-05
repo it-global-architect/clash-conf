@@ -16,5 +16,6 @@ DOMAIN-SUFFIX,globo.com
 DOMAIN-KEYWORD,nuuvem
 #####################################################
 #any .br
+URL-REGEX,(com.br|org.br|net.br)
 DOMAIN-SUFFIX,.br
 DOMAIN-SUFFIX,com.br
