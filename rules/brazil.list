@@ -17,3 +17,5 @@ DOMAIN-KEYWORD,nuuvem
 #####################################################
 #any .br
 URL-REGEX,(com.br|org.br|net.br|edu.br|gov.br)
+DOMAIN,*.com.br
+GEOIP,BR
