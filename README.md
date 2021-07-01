@@ -1,2 +1,5 @@
 # clash-conf
-Clash proxy. Thanks to https://github.com/Dreamacro/clash
+
+Thanks to 
+  https://github.com/Dreamacro/clash
+  https://github.com/ACL4SSR/ACL4SSR
