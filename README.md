@@ -6,7 +6,7 @@ Thanks to: https://github.com/ACL4SSR/ACL4SSR
   I'm not the owner neither creator of this tool. I just used it to create some nice groups.
   If you want more customizations you also can create it by yourself or help me improove this one here.
   
-  
+  To see the groups open YACD from you clash panel. I suggest you to bookmark YACD address so you don't need to open clash anymore.
   
   Main Group:
   All the sites and services that does not fit another group.
