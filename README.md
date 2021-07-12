@@ -16,7 +16,7 @@ Thanks to: https://github.com/ACL4SSR/ACL4SSR
   Choose the region of your preference. 
   
   China Group:
-  Chinese websites and other sites that are not blocked in China
+  Chinese websites and other sites that are not blocked in China. Just set as direct connection for better performance and avoid errors.
   
   Brazil Relay:
   It uses a relay system to reach Brazil in a very fast way. This is good to unlock Disney, HBO, Netflix....
