@@ -18,27 +18,27 @@ If you want more customizations you also can create it by yourself or help me im
   
   <h2> GROUPS DESCRIPTION</h2>
   
-		<h3>Main Group:</h3>
+<h3>Main Group:</h3>
   All the sites and services that does not fit another group.<br>
   Suggestion to use All Auto to get the fastest server around
   
-	<h3>Streaming groups (Disney, Netflix, HBO,...):</h3>
+<h3>Streaming groups (Disney, Netflix, HBO,...):</h3>
   Choose the region of your preference. 
   
-	<h3>China Group:</h3>
+<h3>China Group:</h3>
   Chinese websites and other sites that are not blocked in China. Just set as direct connection for better performance and avoid errors.
   
-  <h3>Brazil Relay:<h3>
+<h3>Brazil Relay:</h3>
   It uses a relay system to reach Brazil in a very fast way. This is good to unlock Disney, HBO, Netflix....
   
-		<h3>Microsoft and Apple Groups:</h3>
-	Both usually works better with direct connection but sometimes we need to use VPN for it.
+<h3>Microsoft and Apple Groups:</h3>
+Both usually works better with direct connection but sometimes we need to use VPN for it.
   
   <h3>Global:</h3>
 	This is default and not used for nothing as far as I know.
   
-		<h3>BJ-Share Group:</h3>
+<h3>BJ-Share Group:</h3>
 	This is a private customization, just ignore it.
   
-		<h3>Source IP group:</h3>
+<h3>Source IP group:</h3>
 	This is a private customization, it bypass any other configuration for devices with the ip range from 192.168.3.248 to 192.168.3.254
