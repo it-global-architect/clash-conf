@@ -1,10 +1,11 @@
 # clash-conf
 
-Thanks to:
+Thanks to: https://github.com/ACL4SSR/ACL4SSR
 
-  This is just a config that creates nice groups based on the tool on the website bellow.
+  This is just a config that creates nice groups based on the tool on the website above.
   I'm not the owner neither creator of this tool. I just used it to create some nice groups.
-  https://github.com/ACL4SSR/ACL4SSR
+  If you want more customizations you also can create it by yourself or help me improove this one here.
+  
   
   
   Main Group:
