@@ -38,7 +38,7 @@ If you want more customizations you also can create it by yourself or help me im
 Both usually works better with direct connection but sometimes we need to use VPN for it.
   
   <h3>Global:</h3>
-	This is default and not used for nothing as far as I know.
+	You just need it if you set clas mode to global, most cases you can ignore it because you will be using rule mode.
   
 <h3>BJ-Share Group:</h3>
 	This is a private customization, just ignore it.
