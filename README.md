@@ -6,6 +6,10 @@ Thanks to: https://github.com/ACL4SSR/ACL4SSR
   I'm not the owner neither creator of this tool. I just used it to create some nice groups.
   If you want more customizations you also can create it by yourself or help me improove this one here.
   
+  Convert your subscription to a groups subscription using this page: https://htmlpreview.github.io/?https://github.com/it-global-architect/clash-conf/blob/main/clash-groups-creator.html
+  
+  Add the new generated subscription to your clash.
+  
   To see the groups open YACD from you clash panel. I suggest you to bookmark YACD address so you don't need to open clash anymore.
   
   Main Group:
