@@ -20,3 +20,6 @@ GEOIP,BR
 #DOMAIN-KEYWORD,.com.br
 #URL-REGEX,(.com.br|.org.br|.net.br|.edu.br|.gov.br)
 DOMAIN,*.com.br
+######################################################
+#Tidal
+#DOMAIN-SUFFIX,tidal.com
