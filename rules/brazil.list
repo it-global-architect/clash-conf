@@ -5,13 +5,6 @@ DOMAIN-SUFFIX,globo.com
 #Evernote
 #DOMAIN-SUFFIX,evernote.com
 ######################################################
-#Amazon
-#DOMAIN-SUFFIX,amazon.com
-#DOMAIN-SUFFIX,primevideo.com
-######################################################
-#Netflix
-#DOMAIN-KEYWORD,netflix
-######################################################
 #Nuuvem
 DOMAIN-KEYWORD,nuuvem
 #####################################################
@@ -20,6 +13,4 @@ GEOIP,BR
 #DOMAIN-KEYWORD,.com.br
 #URL-REGEX,(.com.br|.org.br|.net.br|.edu.br|.gov.br)
 DOMAIN,*.com.br
-######################################################
-#Tidal
-#DOMAIN-SUFFIX,tidal.com
+
