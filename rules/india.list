@@ -6,5 +6,4 @@ GEOIP,IN
 #DOMAIN-KEYWORD,.com.in
 #URL-REGEX,(.com.in|.org.in|.net.in|.edu.in|.gov.in)
 DOMAIN,*.com.in
-#######P2Braz###############3
-DOMAIN-SUFFIX,cms-central.co
+
