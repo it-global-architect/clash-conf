@@ -2,3 +2,6 @@
 DOMAIN,smtp.office365.com
 DOMAIN-KEYWORD,smtp
 ######################################################
+#linkedin
+DOMAIN,linkedin.com
+DOMAIN-KEYWORD,linkedin
