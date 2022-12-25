@@ -29,7 +29,7 @@ If you want more customizations you also can create it by yourself or help me im
   Chinese websites and other sites that are not blocked in China. Just set as direct connection for better performance and avoid errors.
 	
 <h3>Whatsapp Group:</h3>
-  Usually All servers auto is the best option to have a stable connection having all the servers available for your whatsapp but you can choose an especific server for your Whatsapp if you prefere.
+  Usually All servers auto is the best option to have a stable connection having all the servers available for your whatsapp but you can choose an especific server for your Whatsapp if you prefer.
   
 <h3>Brazil Relay:</h3>
   It uses a relay system to reach Brazil in a very fast way. This is good to unlock Disney, HBO, Netflix....
