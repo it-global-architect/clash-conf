@@ -20,3 +20,6 @@ DOMAIN-KEYWORD,insta360
 ############################################################
 #CHAT GPT
 DOMAIN-SUFFIX,openai.com
+######################################################
+#GOOGLE
+DOMAIN-SUFFIX,google.com
