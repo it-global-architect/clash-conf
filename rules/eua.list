@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,hulustream.com
 ######################################################
 #Insta360
 DOMAIN-KEYWORD,insta360
+############################################################
+#CHAT GPT
+DOMAIN-SUFFIX,openai.com
