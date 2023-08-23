@@ -1,6 +1,9 @@
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,outlook
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,live.com
 ####################### XBOX ###############################
 DOMAIN-KEYWORD,xbox
 DOMAIN-SUFFIX,xbox.com
