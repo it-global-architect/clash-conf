@@ -1,1 +1,1 @@
-SRC-IP-CIDR,192.168.50.248/30,no-resolve
+SRC-IP-CIDR,192.168.50.240/28,no-resolve
