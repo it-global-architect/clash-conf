@@ -16,6 +16,8 @@ URL-REGEX,.*(\.com\.br|\.org\.br|\.net\.br|\.edu\.br|\.gov\.br).*
 DOMAIN,.*.com.br
 DOMAIN-SUFFIX,com.br
 DOMAIN-SUFFIX,net.br
+DOMAIN-SUFFIX,gov.br
+DOMAIN-SUFFIX,.br
 ############################################################
 ########### https://hype.games/ ############################
 DOMAIN-SUFFIX,hype.games
