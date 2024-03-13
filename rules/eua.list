@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,openai.com
 ######################################################
 #GOOGLE
 DOMAIN-SUFFIX,google.com
+######################################################
+#Epic Games
+DOMAIN-SUFFIX,epicgames.com
