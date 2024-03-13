@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbo.map.fastly.net
 DOMAIN-SUFFIX,warnermediacdn.com
+
+#discovery max 
+DOMAIN-SUFFIX,discoverymax.com
