@@ -7,8 +7,8 @@ SRC-IP-CIDR,192.168.50.249/32
 
 ######################################################
 #Epic Games
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgames.dev
+#DOMAIN-SUFFIX,epicgames.com
+#DOMAIN-SUFFIX,epicgames.dev
 
 DOMAIN-SUFFIX,alldebrid.com
 DOMAIN-SUFFIX,debrid.it
