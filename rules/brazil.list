@@ -23,4 +23,9 @@ DOMAIN-SUFFIX,.br
 DOMAIN-SUFFIX,hype.games
 ################# PicPay ###################################
 DOMAIN-KEYWORD,picpay
+#########VIVO######################################
+DOMAIN-SUFFIX,vivo.com.br
+DOMAIN-SUFFIX,zup.me
+
+
 
