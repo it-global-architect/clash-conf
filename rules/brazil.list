@@ -27,6 +27,9 @@ DOMAIN-KEYWORD,picpay
 DOMAIN-SUFFIX,vivo.com.br
 DOMAIN-SUFFIX,zup.me
 DOMAIN-SUFFIX,baikalplatform.com
+############### azionedge.net similar to cloudflare but BR #############
+DOMAIN-SUFFIX,azionedge.net
+
 
 
 
