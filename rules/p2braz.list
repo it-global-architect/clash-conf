@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,5ce.co
 #https://iptvbrasil4k.com.br/
 DOMAIN-SUFFIX,warez.la
 DOMAIN-SUFFIX,cdn7.live
+SRC-IP-CIDR,89.187.179.53/30
 
