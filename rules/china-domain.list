@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,laomo.me
 DOMAIN-SUFFIX,mpyit.com
 
 #Bambu lab
-DOMAIN-SUFFIX,bambulab.com
+#DOMAIN-SUFFIX,bambulab.com
 # CN域名直连
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,中国
