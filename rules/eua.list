@@ -22,5 +22,5 @@ DOMAIN-KEYWORD,insta360
 DOMAIN-SUFFIX,openai.com
 ######################################################
 #GOOGLE
-DOMAIN-SUFFIX,google.com
+#DOMAIN-SUFFIX,google.com
 
