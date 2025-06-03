@@ -23,4 +23,9 @@ DOMAIN-SUFFIX,openai.com
 ######################################################
 #Autodesk
 #DOMAIN-SUFFIX,autodesk.com
-
+######################################################
+#CAPCUT
+DOMAIN-KEYWORD,capcut
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutapi.com
+DOMAIN-SUFFIX,capcutstatic.com
