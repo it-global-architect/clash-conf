@@ -1,1 +1,5 @@
-eshop.nintendo.net
+######################################################
+#NINTENDO ESHOP
+DOMAIN-SUFFIX,eshop.nintendo.net
+DOMAIN-SUFFIX,srv.nintendo.net
+DOMAIN-SUFFIX,shop.nintendo.net
