@@ -29,3 +29,7 @@ DOMAIN-KEYWORD,capcut
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capcutapi.com
 DOMAIN-SUFFIX,capcutstatic.com
+######################################################
+#PAYPAL
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
