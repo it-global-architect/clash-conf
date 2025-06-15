@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,warnermediacdn.com
 
 #discovery max 
 DOMAIN-SUFFIX,discoverymax.com
+#
+###########IPTV#####################
+DOMAIN-SUFFIX,srvdigital.fun
