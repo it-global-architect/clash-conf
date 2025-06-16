@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,zup.me
 DOMAIN-SUFFIX,baikalplatform.com
 ############### azionedge.net similar to cloudflare but BR #############
 DOMAIN-SUFFIX,azionedge.net
+#
+############### Binance #############
+DOMAIN-SUFFIX,binance.com
 
 
 
