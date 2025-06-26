@@ -1,6 +1,7 @@
 #youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,google.com.
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,youtube-nocookie.com
