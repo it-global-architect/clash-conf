@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,ivolanski.com
 #realflight online
 DOMAIN-SUFFIX,knifeedge.com
 
+###### 1fichier.com #########
+DOMAIN-SUFFIX,1fichier.com
+#DOMAIN-KEYWORD,1fichier
+
 # 直连列表
 
 # MyList
