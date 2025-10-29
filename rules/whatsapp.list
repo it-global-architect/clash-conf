@@ -17,3 +17,9 @@ IP-CIDR,208.43.122.128/27
 #
 #IVOLANSKI
 DOMAIN-SUFFIX,ivolanski.com
+#
+#Docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,lscr.io
+DOMAIN-SUFFIX,ghcr.io
