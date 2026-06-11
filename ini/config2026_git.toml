@@ -1,0 +1,220 @@
+[custom]
+;Proxy used to download rulesets or subscriptions, set to NONE or empty to disable it, set to SYSTEM to use system proxy.
+;Accept cURL-supported proxies (http:// https:// socks4a:// socks5://)
+;proxy_ruleset=SYSTEM
+;proxy_subscription=NONE
+
+;Enable script support for filtering nodes
+enable_filter=true
+proxy_subscription = "SYSTEM"
+udp_flag=true
+;tcp_fast_open_flag=true
+sort_flag=true
+;skip_cert_verify_flag=true
+;filter_deprecated_nodes=false
+
+;Rename remarks with the following patterns. Supports regular expression.
+;Format: Search_Pattern@Replace_Pattern
+;rename_node=IPLC@专线
+
+
+;Enable generating rules with rulesets
+enabled=true
+
+;Overwrite the existing rules in rule_base
+;overwrite_original_rules=false
+
+;Perform a ruleset update on request
+update_ruleset_on_request=true
+
+;Ruleset addresses, supports local files/URL
+;Format: Group name,URL
+;        Group name,[]Rule
+
+;OTHER
+surge_ruleset=🧾 Hyperliquid Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/hyperliquid.list
+surge_ruleset=🤖 AI GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/ai.list
+
+;GAMES
+surge_ruleset=🇸 Sony Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/sony.list
+surge_ruleset=🇳 Nintendo Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/nintendo.list
+surge_ruleset=🇸 Steam Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/steam.list
+surge_ruleset=🇪 Epic Games Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/epic_games.list
+
+;Set rule flag
+surge_ruleset=🇧🇯 BJ-SHARE Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/bj.list
+surge_ruleset=📬Source IP Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/source-ip.list
+surge_ruleset=🇧🇷 Brazil Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/brazil.list
+
+
+;GOOGLE
+surge_ruleset=🇬 GOOGLE GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/google_media.list
+surge_ruleset=🇬 GOOGLE GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/GoogleCN.list
+
+;STREAMING
+surge_ruleset=🍿 STREAMING GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/HBO.list
+surge_ruleset=🍿 STREAMING GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/amazon-primevideo.list
+surge_ruleset=🍿 STREAMING GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Netflix.list
+surge_ruleset=🍿 STREAMING GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/DisneyPlus.list
+surge_ruleset=🍿 STREAMING GROUP,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/HBO.list
+
+;USA WEBSITES
+surge_ruleset=🇺🇸 USMedia Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/eua.list
+surge_ruleset=🇺🇸 USMedia Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Hulu.list
+
+;MICROSOFT
+surge_ruleset=🚽 Microsoft Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/microsoft.list
+surge_ruleset=🚽 Microsoft Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Microsoft.list
+surge_ruleset=🚽 Microsoft Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/OneDrive.list
+surge_ruleset=🚽 Microsoft Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Bing.list
+surge_ruleset=🚽 Microsoft Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Xbox.list
+
+;AD BLOCK
+surge_ruleset=🆎 AdBlock Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BanAD.list
+#surge_ruleset=🆎 AdBlock Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BanProgramAD.list
+#surge_ruleset=🆎 AdBlock Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BanEasyList.list
+#surge_ruleset=🆎 AdBlock Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BanEasyListChina.list
+#surge_ruleset=🆎 AdBlock Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BanEasyPrivacy.list
+
+;WHATSAPP
+surge_ruleset=💬 Whatsapp Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/whatsapp.list
+;TIKTOK
+surge_ruleset=🎤 TikTok Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/TikTok.list
+;APPLE
+surge_ruleset=🍎 Apple Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Apple.list
+
+;FORCE TO MAIN GROUP
+surge_ruleset=🚀 Main Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Telegram.list
+surge_ruleset=🚀 Main Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/Discord.list
+surge_ruleset=🚀 Main Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/AppleTV.list
+surge_ruleset=🚀 Main Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/main_group.list
+
+;DIRECT CONNECTION
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/LocalAreaNetwork.list
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/BilibiliHMT.list
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/ChinaMedia.list
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/ChinaIp.list
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/ChinaCompanyIp.list
+surge_ruleset=🇨🇳 China Group,https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/china-domain.list
+surge_ruleset=🇨🇳 China Group,[]GEOIP,CN
+
+;ALL THE OTHERS
+surge_ruleset=🚀 Main Group,[]FINAL
+
+
+;Main groups
+custom_proxy_group=🚀 Main Group`select`[]🌍 ALL Servers Auto`[]✔️WANNAFLIX`[]✔️ NEXITALLY`[]✔️ BIU`[]🅿️ PREMIUM AUTO`[]✔️ VPN07`[]☀️ Default Server`[]🇧🇷 Brazil AUTO`[]DIRECT`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
+custom_proxy_group=🍿 STREAMING GROUP`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
+custom_proxy_group=🇧🇷 Brazil Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
+
+
+;Content specific groups
+custom_proxy_group=🇺🇸 USMedia Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🇨🇳 China Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🆎 AdBlock Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🚽 Microsoft Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🍎 Apple Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🎤 TikTok Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=💬 Whatsapp Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🇬 GOOGLE GROUP`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🧾 Hyperliquid Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🤖 AI GROUP`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`.*(Premium|premium|DIP)`
+
+
+;GAMES
+custom_proxy_group=🇸 Sony Group`select`[]🚀 Main Group`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🇳 Nintendo Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🇸 Steam Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+custom_proxy_group=🇪 Epic Games Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`
+
+;private groups
+custom_proxy_group=🇧🇯 BJ-SHARE Group`select`.*(DIP USA)`[]DIRECT`
+custom_proxy_group=📬Source IP Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`[]DIRECT`[]⇝ Torrent Servers Auto`[]🌍 ALL Servers Auto`[]✔️WANNAFLIX`[]✔️ NEXITALLY`[]✔️ BIU`
+
+;relays
+;custom_proxy_group=⛓️ Relay_1_group Group`select`[]🌍 ALL Servers Auto`[]✔️WANNAFLIX`[]✔️ PROVIDER 3 AUTO`[]☀️ Default Server`[]⚖️ Load Balance Servers`[]DIRECT`[]⇝ Torrent Servers Auto`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`[]🇸🇬 Singapore Servers Auto`[]🇩🇪 Germany Servers Auto`.*`
+;custom_proxy_group=⛓️ Relay_2_group Group`select`[]🌍 ALL Servers Auto`[]✔️WANNAFLIX`[]✔️ PROVIDER 3 AUTO`[]☀️ Default Server`[]🇧🇷 Brazil AUTO`[]⚖️ Load Balance Servers`[]DIRECT`[]⇝ Torrent Servers Auto`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`[]🇸🇬 Singapore Servers Auto`[]🇩🇪 Germany Servers Auto`.*`
+;custom_proxy_group=🇧🇷 Relay_BR Server`relay`[]⛓️ Relay_1_group Group`[]⛓️ Relay_2_group Group`
+
+
+;servers
+;custom_proxy_group=⚖️ Load Balance Servers`load-balance`[]✔️ PROVIDER 3 AUTO`http://www.gstatic.com/generate_204`5
+custom_proxy_group=☀️ Default Server`select`.*`
+
+
+;Auto Select url-test
+custom_proxy_group=🇺🇸 US Servers Auto`url-test`.*(\sUS\s|USA|美)`http://www.gstatic.com/generate_204`60,3,100
+custom_proxy_group=🇯🇵 JP Servers Auto`url-test`.*(JP|JAPAN|Japan)`http://www.gstatic.com/generate_204`600,3,100
+custom_proxy_group= 🇭🇰 HK Servers Auto`url-test`.*(港|HK|Hong|HONG)`http://www.gstatic.com/generate_204`600,2,50
+custom_proxy_group=🇸🇬 Singapore Servers Auto`url-test`.*(🇸🇬|singapore|Singapore|SG)`http://www.gstatic.com/generate_204`600,2,50
+custom_proxy_group=🇩🇪 Germany Servers Auto`url-test`.*(Germany|germany|GERMANY)`http://www.gstatic.com/generate_204`600,2,50
+custom_proxy_group=⇝ Torrent Servers Auto`url-test`.*(torrent|Torrent|TORRENT)`http://www.gstatic.com/generate_204`600,2,50
+custom_proxy_group=🌍 ALL Servers Auto`url-test`^(?!.*(SOMETHINGIDONTWANT|Whatsapp)).*`http://www.gstatic.com/generate_204`60,2,5
+
+
+;private servers config
+;custom_proxy_group=✔️WANNAFLIX`url-test`!!GROUPID=0`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=✔️WANNAFLIX`url-test`!!GROUPID=0`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=✔️ NEXITALLY`url-test`!!GROUPID=1`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=✔️ BIU`url-test`!!GROUPID=2`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=✔️ VPN07`url-test`!!GROUPID=3`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=🇧🇷 Brazil AUTO`url-test`^(?!.*(SOMETHINGIDONTWANT|SOMETHINGELSE)).*(BRAZIL|Brazil|Brasil|巴西)`http://www.gstatic.com/generate_204`300,5,50
+custom_proxy_group=🅿️ PREMIUM AUTO`url-test`^(?!.*(Australia|USA)).*(PREMIUM|Premium)`http://www.gstatic.com/generate_204`300,5,50
+
+rename_node=!!script:function rename(node)\n{  const p='RENAME';\nconst g=node.GroupID;\nif(g == 0)	p='[WANNAFLIX]';\nif(g == 1)	p='[LOUIS]';\nif(g == 2)	p='[UNKNOW]';\nif(g == 4)	p='[5]';\nreturn node.Remark +' ' + p;}
+
+include_remarks=.*
+;exclude_remarks=(Whatsapp|Mainland)
+
+enable_rule_generator=true
+overwrite_original_rules=true
+clash_rule_base=https://raw.githubusercontent.com/it-global-architect/clash-conf/refs/heads/main/rules/GeneralClashConfig.yml 
+
+[emojis]
+add_emoji=true
+remove_old_emoji=true
+
+;Rule to add emojis. Supports regular expression.
+;Format: Remark_Search_Pattern,emoji
+
+;rule=(流量|时间|应急|过期|Bandwidth|expire),🏳️‍🌈
+rule=AC,🇦🇨
+rule=(AR|阿根廷),🇦🇷
+rule=(奥地利|维也纳),🇦🇹
+rule=(AU|Australia|Sydney|澳大利亚|悉尼),🇦🇺
+rule=BE,🇧🇪
+rule=(BR|Brazil|巴西|圣保罗),🇧🇷
+rule=(Canada|加拿大|蒙特利尔|温哥华|楓葉|枫叶),🇨🇦
+rule=(瑞士|苏黎世),🇨🇭
+rule=(DE|Germany|德国|法兰克福|德),🇩🇪
+rule=丹麦,🇩🇰
+rule=ES,🇪🇸
+rule=EU,🇪🇺
+rule=(Finland|芬兰|赫尔辛基),🇫🇮
+rule=(FR|France|法国|巴黎),🇫🇷
+rule=(UK|England|UnitedKingdom|英国|英|伦敦),🇬🇧
+rule=(HK|HongKong|香港|深港|沪港|呼港|HKT|HKBN|HGC|WTT|CMI|穗港|京港|港),🇭🇰
+rule=(Indonesia|印尼|印度尼西亚|雅加达),🇮🇩
+rule=(Ireland|爱尔兰|都柏林),🇮🇪
+rule=(India|印度|孟买),🇮🇳
+rule=(Italy|意大利|米兰),🇮🇹
+rule=(JP|Japan|日本|东京|大阪|埼玉|沪日|穗日|川日|中日|泉日|杭日),🇯🇵
+rule=(KP|朝鲜),🇰🇵
+rule=(KR|Korea|KOR|韩国|首尔|韩|韓),🇰🇷
+rule=(MO|Macao|澳门|CTM),🇲🇴
+rule=(MY|Malaysia|马来西亚),🇲🇾
+rule=(NL|Netherlands|荷兰|阿姆斯特丹),🇳🇱
+rule=(PH|Philippines|菲律宾),🇵🇭
+rule=(RO|罗马尼亚),🇷🇴
+rule=(RU|Russia|俄罗斯|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|京俄|杭俄),🇷🇺
+rule=(沙特|迪拜),🇸🇦
+rule=(SE|Sweden),🇸🇪
+rule=(SG|Singapore|新加坡|狮城|沪新|京新|泉新|穗新|深新|杭新),🇸🇬
+rule=(TH|Thailand|泰国|曼谷),🇹🇭
+rule=(TR|Turkey|土耳其|伊斯坦布尔),🇹🇷
+;rule=(US|America|UnitedStates|美国|美|京美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|沪美),🇺🇲
+rule=(VN|越南),🇻🇳
+rule=(ZA|南非),🇿🇦
+;rule=(CN|China|回国|中国|江苏|北京|上海|广州|深圳|杭州|常州|徐州|青岛|宁波|镇江|back|TW|Taiwan|台湾|台北|台中|新北|彰化|CHT|新北|台|HINET),🇨🇳
+
+
