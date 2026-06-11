@@ -103,6 +103,7 @@ surge_ruleset=🚀 Main Group,[]FINAL
 
 
 ;Main groups
+custom_proxy_group=MY CLASH`select`
 custom_proxy_group=🚀 Main Group`select`[]🌍 ALL Servers Auto`[]✔️WANNAFLIX`[]✔️ NEXITALLY`[]✔️ BIU`[]🅿️ PREMIUM AUTO`[]✔️ VPN07`[]☀️ Default Server`[]🇧🇷 Brazil AUTO`[]DIRECT`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
 custom_proxy_group=🍿 STREAMING GROUP`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
 custom_proxy_group=🇧🇷 Brazil Group`select`[]🚀 Main Group`[]🌍 ALL Servers Auto`[]🇧🇷 Brazil AUTO`[]🇭🇰 HK Servers Auto`[]🇺🇸 US Servers Auto`[]🇯🇵 JP Servers Auto`.*(Brazil|BRAZIL|BR|br)`
