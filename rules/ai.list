@@ -1,0 +1,11 @@
+#
+################# Google#############################
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+#####################################################
+#
+#
+################## ChatGPT ############################
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
